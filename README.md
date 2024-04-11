@@ -19,6 +19,10 @@
  </ul>
 
 
+<p>To run this python file in your local computer run this command in your terminal</p>
+<strong>Command: python -m streamlit run AlternateWebsite.py</strong>
+
+<br><br>
  <a href="https://alternate-website-finder-nishant-maity.streamlit.app/">View app</a>
 
 
