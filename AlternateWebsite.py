@@ -62,7 +62,7 @@ with Form:
 
     with InputResults:
         if GetResults:
-                GeneratedResult = f"ㅤㅤㅤㅤㅤㅤㅤWebsite: ㅤ{SearchWebsite}ㅤㅤㅤㅤResults: ㅤ{Number_of_Results}"
+                GeneratedResult = f"Website:{SearchWebsite}ㅤㅤㅤResults:{Number_of_Results}"
                 def stream_data1():
                     for word in GeneratedResult.split(" "):
                         yield word + " "
